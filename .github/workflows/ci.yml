@@ -1,6 +1,5 @@
-name: ci
-on:
-  pull_request:
+name: icon 
+pull_request:
   push:
     branches:
     - master
